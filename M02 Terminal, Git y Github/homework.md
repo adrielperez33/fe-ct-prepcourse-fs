@@ -75,7 +75,22 @@ El objetivo de este ejercicio es que crees un nuevo repositorio llamado "_**Repo
 
 En este ejercicio debes ingresar dentro del repositorio y crear una nueva carpeta con el nombre "_CarpetaHenry_". Utiliza los comandos de más arriba.
 
----
+Adriel@DESKTOP-P6KFS7K MINGW64 ~/Desktop (master)
+$ cd Henry
+
+Adriel@DESKTOP-P6KFS7K MINGW64 ~/Desktop/Henry (master)
+$ mkdir homework2
+
+Adriel@DESKTOP-P6KFS7K MINGW64 ~/Desktop/Henry (master)
+$ cd homework 2
+bash: cd: too many arguments
+
+Adriel@DESKTOP-P6KFS7K MINGW64 ~/Desktop/Henry (master)
+$ cd homework2
+
+Adriel@DESKTOP-P6KFS7K MINGW64 ~/Desktop/Henry/homework2 (master)
+$ mkdir carpetahenry
+
 
 </br >
 
@@ -83,13 +98,20 @@ En este ejercicio debes ingresar dentro del repositorio y crear una nueva carpet
 
 Ingresa a la carpeta que acabas de crear utilizando los comandos ya aprendidos.
 
----
+Adriel@DESKTOP-P6KFS7K MINGW64 ~/Desktop/Henry/homework2 (master)
+$ cd carpetahenry
+
+Adriel@DESKTOP-P6KFS7K MINGW64 ~/Desktop/Henry/homework2/carpetahenry (master)
 
 </br >
 
 ### **📍 EJERCICIO 04**
 
 Ahora debes crear un archivo llamado "**_primerArchivo.txt_**". Revisa el comando correspondiente a partir del sistema operativo que utilices (Linux o Windows).
+
+Adriel@DESKTOP-P6KFS7K MINGW64 ~/Desktop/Henry/homework2/carpetahenry (master)
+$ touch primerArchivo.txt
+
 
 </br >
 
